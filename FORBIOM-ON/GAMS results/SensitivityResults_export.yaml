@@ -1,0 +1,145 @@
+- GDXReader:
+    file: C:\Users\dell\OneDrive\Bureau\Rasoul\Papers\Forbiom\output\SensitivityResults.gdx
+    symbols: 
+      - name: cpValue
+      - name: sensSummary
+      - name: sensForPlot
+      - name: sensBase
+      - name: sensDelta
+      - name: demDemandMult
+      - name: demSummary
+      - name: demForChart
+      - name: demSensBase
+      - name: demSensDelta
+      - name: demTableQty
+      - name: demTableRev
+      - name: demObj
+      - name: demTotQty
+      - name: demTotRev
+      - name: demForPlot
+      - name: prLumberMult
+      - name: prTableQty
+      - name: prTableRev
+      - name: prObj
+      - name: prTotQty
+      - name: prTotRev
+      - name: prForPlot
+      - name: cmDemandMult
+      - name: cmLumberMult
+      - name: cmTableQty
+      - name: cmTableRev
+      - name: cmObj
+      - name: cmTotQty
+      - name: cmTotRev
+      - name: cmForPlot
+      - name: pubSummaryTab
+      - name: regionalHarvestDem
+- ExcelWriter:
+    file: C:\Users\dell\OneDrive\Bureau\Rasoul\Papers\Forbiom\output\SensitivityResults_export.xlsx
+    valueSubstitutions: {
+      EPS: EPS,
+      INF: INF,
+      -INF: -INF,
+      UNDEF: UNDEF,
+      NA: NA
+    }
+    symbols:
+      - name: cpValue
+        range: cpValue!A1
+        columnDimension: 0
+      - name: sensSummary
+        range: sensSummary!A1
+        columnDimension: 0
+      - name: sensForPlot
+        range: sensForPlot!A1
+        columnDimension: 0
+      - name: sensBase
+        range: sensBase!A1
+        columnDimension: 0
+      - name: sensDelta
+        range: sensDelta!A1
+        columnDimension: 0
+      - name: demDemandMult
+        range: demDemandMult!A1
+        columnDimension: 0
+      - name: demSummary
+        range: demSummary!A1
+        columnDimension: 0
+      - name: demForChart
+        range: demForChart!A1
+        columnDimension: 0
+      - name: demSensBase
+        range: demSensBase!A1
+        columnDimension: 0
+      - name: demSensDelta
+        range: demSensDelta!A1
+        columnDimension: 0
+      - name: demTableQty
+        range: demTableQty!A1
+        columnDimension: 0
+      - name: demTableRev
+        range: demTableRev!A1
+        columnDimension: 0
+      - name: demObj
+        range: demObj!A1
+        columnDimension: 0
+      - name: demTotQty
+        range: demTotQty!A1
+        columnDimension: 0
+      - name: demTotRev
+        range: demTotRev!A1
+        columnDimension: 0
+      - name: demForPlot
+        range: demForPlot!A1
+        columnDimension: 0
+      - name: prLumberMult
+        range: prLumberMult!A1
+        columnDimension: 0
+      - name: prTableQty
+        range: prTableQty!A1
+        columnDimension: 0
+      - name: prTableRev
+        range: prTableRev!A1
+        columnDimension: 0
+      - name: prObj
+        range: prObj!A1
+        columnDimension: 0
+      - name: prTotQty
+        range: prTotQty!A1
+        columnDimension: 0
+      - name: prTotRev
+        range: prTotRev!A1
+        columnDimension: 0
+      - name: prForPlot
+        range: prForPlot!A1
+        columnDimension: 0
+      - name: cmDemandMult
+        range: cmDemandMult!A1
+        columnDimension: 0
+      - name: cmLumberMult
+        range: cmLumberMult!A1
+        columnDimension: 0
+      - name: cmTableQty
+        range: cmTableQty!A1
+        columnDimension: 0
+      - name: cmTableRev
+        range: cmTableRev!A1
+        columnDimension: 0
+      - name: cmObj
+        range: cmObj!A1
+        columnDimension: 0
+      - name: cmTotQty
+        range: cmTotQty!A1
+        columnDimension: 0
+      - name: cmTotRev
+        range: cmTotRev!A1
+        columnDimension: 0
+      - name: cmForPlot
+        range: cmForPlot!A1
+        columnDimension: 0
+      - name: pubSummaryTab
+        range: pubSummaryTab!A1
+        columnDimension: 0
+      - name: regionalHarvestDem
+        range: regionalHarvestDem!A1
+        columnDimension: 0

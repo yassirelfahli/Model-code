@@ -1,0 +1,48 @@
+"Lumber price sensitivity - mass timber (CLT+Glulam), 6 regions, sum over years"
+"Qty = 1000 m3 ; Rev = MILLION $ ; LumberMult = shock to lumber price path"
+
+"Scenario: ","Pbase"
+"  LumberMult ",1.0000,"  Obj ",94496.0301,"  TotQty(1000m3) ",22214.32,"  TotRev(M$) ",16495.9301
+"  ","TroutLake"," Qty ",3612.07," Rev ",2687.6639
+"  ","Abitibi"," Qty ",3646.04," Rev ",2704.3904
+"  ","Algoma"," Qty ",3699.07," Rev ",2749.1969
+"  ","Kenora"," Qty ",3786.40," Rev ",2808.5367
+"  ","Nipissing"," Qty ",3685.93," Rev ",2736.4097
+"  ","Algonquin"," Qty ",3784.81," Rev ",2809.7325
+
+"Scenario: ","PD5"
+"  LumberMult ",0.9500,"  Obj ",88317.1182,"  TotQty(1000m3) ",22214.32,"  TotRev(M$) ",16495.9301
+"  ","TroutLake"," Qty ",3612.07," Rev ",2687.6639
+"  ","Abitibi"," Qty ",3646.04," Rev ",2704.3904
+"  ","Algoma"," Qty ",3699.07," Rev ",2749.1969
+"  ","Kenora"," Qty ",3786.40," Rev ",2808.5367
+"  ","Nipissing"," Qty ",3685.93," Rev ",2736.4097
+"  ","Algonquin"," Qty ",3784.81," Rev ",2809.7325
+
+"Scenario: ","PI5"
+"  LumberMult ",1.0500,"  Obj ",100674.9420,"  TotQty(1000m3) ",22214.32,"  TotRev(M$) ",16495.9301
+"  ","TroutLake"," Qty ",3612.07," Rev ",2687.6639
+"  ","Abitibi"," Qty ",3646.04," Rev ",2704.3904
+"  ","Algoma"," Qty ",3699.07," Rev ",2749.1969
+"  ","Kenora"," Qty ",3786.40," Rev ",2808.5367
+"  ","Nipissing"," Qty ",3685.93," Rev ",2736.4097
+"  ","Algonquin"," Qty ",3784.81," Rev ",2809.7325
+
+"Scenario: ","PD10"
+"  LumberMult ",0.9000,"  Obj ",82138.2062,"  TotQty(1000m3) ",22214.32,"  TotRev(M$) ",16495.9301
+"  ","TroutLake"," Qty ",3612.07," Rev ",2687.6639
+"  ","Abitibi"," Qty ",3646.04," Rev ",2704.3904
+"  ","Algoma"," Qty ",3699.07," Rev ",2749.1969
+"  ","Kenora"," Qty ",3786.40," Rev ",2808.5367
+"  ","Nipissing"," Qty ",3685.93," Rev ",2736.4097
+"  ","Algonquin"," Qty ",3784.81," Rev ",2809.7325
+
+"Scenario: ","PI10"
+"  LumberMult ",1.1000,"  Obj ",106853.8539,"  TotQty(1000m3) ",22214.32,"  TotRev(M$) ",16495.9301
+"  ","TroutLake"," Qty ",3612.07," Rev ",2687.6639
+"  ","Abitibi"," Qty ",3646.04," Rev ",2704.3904
+"  ","Algoma"," Qty ",3699.07," Rev ",2749.1969
+"  ","Kenora"," Qty ",3786.40," Rev ",2808.5367
+"  ","Nipissing"," Qty ",3685.93," Rev ",2736.4097
+"  ","Algonquin"," Qty ",3784.81," Rev ",2809.7325
+

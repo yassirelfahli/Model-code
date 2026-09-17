@@ -1,0 +1,66 @@
+"Demand sensitivity - mass timber (CLT+Glulam), 6 regions, sum over years"
+"Qty = 1000 m3 ; Rev = MILLION $"
+
+"Scenario: ","Baseline"
+"  CLT mult ",1.0000,"  Obj ",94496.0301,"  TotQty(1000m3) ",22214.32,"  TotRev(M$) ",16495.9301
+"  ","TroutLake"," Qty ",3612.07," Rev ",2687.6639
+"  ","Abitibi"," Qty ",3646.04," Rev ",2704.3904
+"  ","Algoma"," Qty ",3699.07," Rev ",2749.1969
+"  ","Kenora"," Qty ",3786.40," Rev ",2808.5367
+"  ","Nipissing"," Qty ",3685.93," Rev ",2736.4097
+"  ","Algonquin"," Qty ",3784.81," Rev ",2809.7325
+
+"Scenario: ","D50"
+"  CLT mult ",1.5000,"  Obj ",98518.4691,"  TotQty(1000m3) ",33321.48,"  TotRev(M$) ",24743.8952
+"  ","TroutLake"," Qty ",5418.10," Rev ",4031.4958
+"  ","Abitibi"," Qty ",5469.06," Rev ",4056.5857
+"  ","Algoma"," Qty ",5548.60," Rev ",4123.7954
+"  ","Kenora"," Qty ",5679.60," Rev ",4212.8050
+"  ","Nipissing"," Qty ",5528.90," Rev ",4104.6146
+"  ","Algonquin"," Qty ",5677.21," Rev ",4214.5987
+
+"Scenario: ","D100"
+"  CLT mult ",2.0000,"  Obj ",102540.9082,"  TotQty(1000m3) ",44428.64,"  TotRev(M$) ",32991.8602
+"  ","TroutLake"," Qty ",7224.13," Rev ",5375.3278
+"  ","Abitibi"," Qty ",7292.08," Rev ",5408.7809
+"  ","Algoma"," Qty ",7398.13," Rev ",5498.3939
+"  ","Kenora"," Qty ",7572.80," Rev ",5617.0734
+"  ","Nipissing"," Qty ",7371.87," Rev ",5472.8194
+"  ","Algonquin"," Qty ",7569.62," Rev ",5619.4649
+
+"Scenario: ","D200"
+"  CLT mult ",3.0000,"  Obj ",110585.7863,"  TotQty(1000m3) ",66642.95,"  TotRev(M$) ",49487.7903
+"  ","TroutLake"," Qty ",10836.20," Rev ",8062.9916
+"  ","Abitibi"," Qty ",10938.13," Rev ",8113.1713
+"  ","Algoma"," Qty ",11097.20," Rev ",8247.5908
+"  ","Kenora"," Qty ",11359.20," Rev ",8425.6100
+"  ","Nipissing"," Qty ",11057.80," Rev ",8209.2291
+"  ","Algonquin"," Qty ",11354.43," Rev ",8429.1974
+
+"Scenario: ","D300"
+"  CLT mult ",4.0000,"  Obj ",118630.6645,"  TotQty(1000m3) ",88857.27,"  TotRev(M$) ",65983.7205
+"  ","TroutLake"," Qty ",14448.26," Rev ",10750.6555
+"  ","Abitibi"," Qty ",14584.17," Rev ",10817.5617
+"  ","Algoma"," Qty ",14796.27," Rev ",10996.7878
+"  ","Kenora"," Qty ",15145.61," Rev ",11234.1467
+"  ","Nipissing"," Qty ",14743.73," Rev ",10945.6388
+"  ","Algonquin"," Qty ",15139.23," Rev ",11238.9299
+
+"Scenario: ","D400"
+"  CLT mult ",5.0000,"  Obj ",126675.5426,"  TotQty(1000m3) ",111071.59,"  TotRev(M$) ",82479.6506
+"  ","TroutLake"," Qty ",18060.33," Rev ",13438.3194
+"  ","Abitibi"," Qty ",18230.21," Rev ",13521.9522
+"  ","Algoma"," Qty ",18495.33," Rev ",13745.9847
+"  ","Kenora"," Qty ",18932.01," Rev ",14042.6834
+"  ","Nipissing"," Qty ",18429.67," Rev ",13682.0486
+"  ","Algonquin"," Qty ",18924.04," Rev ",14048.6623
+
+"Scenario: ","DU10"
+"  CLT mult ",1.1000,"  Obj ",95300.5179,"  TotQty(1000m3) ",24435.75,"  TotRev(M$) ",18145.5231
+"  ","TroutLake"," Qty ",3973.27," Rev ",2956.4303
+"  ","Abitibi"," Qty ",4010.65," Rev ",2974.8295
+"  ","Algoma"," Qty ",4068.97," Rev ",3024.1166
+"  ","Kenora"," Qty ",4165.04," Rev ",3089.3904
+"  ","Nipissing"," Qty ",4054.53," Rev ",3010.0507
+"  ","Algonquin"," Qty ",4163.29," Rev ",3090.7057
+

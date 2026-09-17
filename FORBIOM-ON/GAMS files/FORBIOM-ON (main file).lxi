@@ -1,0 +1,217 @@
+B 3 C o m p i l a t i o n
+B 1097 Equation Listing    SOLVE ForestCP Using NLP From line 497
+D 1100 stockBalanceRW
+D 1111 sustainabilityRW
+D 1122 roundwoodUseEq
+D 1133 millCapacityEq
+D 1144 demandCapEq
+D 1155 arcCapEq
+D 1166 lumberBalance
+D 1177 pulpwoodBalance
+D 1188 cltBalance
+D 1199 glulamBalance
+D 1210 carbonStoreEq
+D 1221 carbonEmitEq
+D 1232 emissionEq
+D 1237 storageEq
+D 1242 netCarbonEq
+D 1247 eCarbonCost
+D 1252 revenueEq
+D 1257 harvestCostEq
+D 1262 procCostEq
+D 1267 transCostEq
+D 1274 profitEq
+D 1279 scalarObjective
+B 1285 Column Listing      SOLVE ForestCP Using NLP From line 497
+E 1288 stockRW
+E 1310 harvestRW
+E 1335 production
+E 1366 sales
+E 1388 exports
+E 1416 price
+E 1432 carbonStorage
+E 1451 carbonEmission
+E 1470 Zprofit
+E 1478 Zemission
+E 1487 Zstorage
+E 1495 ZnetCarbon
+E 1502 carbonCost
+E 1510 obj
+E 1517 revenue
+E 1525 harvestCostTot
+E 1533 procCostTot
+E 1541 transCostTot
+B 1550 Range Statistics    SOLVE ForestCP Using NLP From line 497
+B 1561 Model Statistics    SOLVE ForestCP Using NLP From line 497
+B 1575 Solution Report     SOLVE ForestCP Using NLP From line 497
+F 1617 stockBalanceRW
+F 1688 sustainabilityRW
+F 1759 roundwoodUseEq
+F 1830 millCapacityEq
+F 2099 demandCapEq
+F 2368 arcCapEq
+F 3693 lumberBalance
+F 3764 pulpwoodBalance
+F 3835 cltBalance
+F 3906 glulamBalance
+F 3977 carbonStoreEq
+F 4246 carbonEmitEq
+F 4517 emissionEq
+F 4518 storageEq
+F 4519 netCarbonEq
+F 4520 eCarbonCost
+F 4521 revenueEq
+F 4522 harvestCostEq
+F 4523 procCostEq
+F 4524 transCostEq
+F 4525 profitEq
+F 4526 scalarObjective
+G 4528 stockRW
+G 4599 harvestRW
+G 4670 production
+G 4939 sales
+G 5208 exports
+G 6533 price
+G 6802 carbonStorage
+G 7071 carbonEmission
+G 7342 Zprofit
+G 7343 Zemission
+G 7344 Zstorage
+G 7345 ZnetCarbon
+G 7346 carbonCost
+G 7347 obj
+G 7348 revenue
+G 7349 harvestCostTot
+G 7350 procCostTot
+G 7351 transCostTot
+B 7371 E x e c u t i o n
+I 7373 obj
+I 7374 Zprofit
+I 7375 Zemission
+I 7376 carbonCost
+I 7377 tierMetrics
+I 7446 price
+I 7476 stockRW
+I 7488 harvestRW
+I 7500 production
+I 7530 exports
+I 7535 sales
+I 7566 revenue
+I 7567 harvestCostTot
+I 7568 procCostTot
+I 7569 transCostTot
+I 7570 revR
+I 7575 rev2025
+I 7580 tierMetrics
+B 7652 Range Statistics    SOLVE ForestCP Using NLP From line 577
+B 7663 Model Statistics    SOLVE ForestCP Using NLP From line 577
+B 7682 Solution Report     SOLVE ForestCP Using NLP From line 577
+B 7731 Range Statistics    SOLVE ForestCP Using NLP From line 577
+B 7742 Model Statistics    SOLVE ForestCP Using NLP From line 577
+B 7761 Solution Report     SOLVE ForestCP Using NLP From line 577
+B 7810 Range Statistics    SOLVE ForestCP Using NLP From line 577
+B 7821 Model Statistics    SOLVE ForestCP Using NLP From line 577
+B 7840 Solution Report     SOLVE ForestCP Using NLP From line 577
+B 7889 Range Statistics    SOLVE ForestCP Using NLP From line 577
+B 7900 Model Statistics    SOLVE ForestCP Using NLP From line 577
+B 7919 Solution Report     SOLVE ForestCP Using NLP From line 577
+B 7968 Range Statistics    SOLVE ForestCP Using NLP From line 577
+B 7979 Model Statistics    SOLVE ForestCP Using NLP From line 577
+B 7998 Solution Report     SOLVE ForestCP Using NLP From line 577
+B 8047 Range Statistics    SOLVE ForestCP Using NLP From line 577
+B 8058 Model Statistics    SOLVE ForestCP Using NLP From line 577
+B 8077 Solution Report     SOLVE ForestCP Using NLP From line 577
+B 8126 Range Statistics    SOLVE ForestCP Using NLP From line 577
+B 8137 Model Statistics    SOLVE ForestCP Using NLP From line 577
+B 8156 Solution Report     SOLVE ForestCP Using NLP From line 577
+B 8205 Range Statistics    SOLVE ForestCP Using NLP From line 636
+B 8216 Model Statistics    SOLVE ForestCP Using NLP From line 636
+B 8230 Solution Report     SOLVE ForestCP Using NLP From line 636
+B 8279 E x e c u t i o n
+I 8279 regionalHarvestDem
+I 8328 demDemandMult
+I 8341 demForPlot
+I 8354 demTotQty
+I 8359 demTotRev
+I 8364 demObj
+I 8369 demTableQty
+I 8382 demTableRev
+I 8395 demSummary
+I 8408 demForChart
+I 8421 demSensBase
+I 8426 demSensDelta
+B 8519 Range Statistics    SOLVE ForestCP Using NLP From line 760
+B 8530 Model Statistics    SOLVE ForestCP Using NLP From line 760
+B 8549 Solution Report     SOLVE ForestCP Using NLP From line 760
+B 8598 Range Statistics    SOLVE ForestCP Using NLP From line 760
+B 8609 Model Statistics    SOLVE ForestCP Using NLP From line 760
+B 8628 Solution Report     SOLVE ForestCP Using NLP From line 760
+B 8677 Range Statistics    SOLVE ForestCP Using NLP From line 760
+B 8688 Model Statistics    SOLVE ForestCP Using NLP From line 760
+B 8707 Solution Report     SOLVE ForestCP Using NLP From line 760
+B 8756 Range Statistics    SOLVE ForestCP Using NLP From line 760
+B 8767 Model Statistics    SOLVE ForestCP Using NLP From line 760
+B 8786 Solution Report     SOLVE ForestCP Using NLP From line 760
+B 8835 Range Statistics    SOLVE ForestCP Using NLP From line 760
+B 8846 Model Statistics    SOLVE ForestCP Using NLP From line 760
+B 8865 Solution Report     SOLVE ForestCP Using NLP From line 760
+B 8914 Range Statistics    SOLVE ForestCP Using NLP From line 777
+B 8925 Model Statistics    SOLVE ForestCP Using NLP From line 777
+B 8939 Solution Report     SOLVE ForestCP Using NLP From line 777
+B 8988 E x e c u t i o n
+I 8988 prLumberMult
+I 8994 prForPlot
+I 9005 prTotQty
+I 9010 prTotRev
+I 9015 prObj
+I 9020 prTableQty
+I 9031 prTableRev
+B 9045 Range Statistics    SOLVE ForestCP Using NLP From line 826
+B 9056 Model Statistics    SOLVE ForestCP Using NLP From line 826
+B 9075 Solution Report     SOLVE ForestCP Using NLP From line 826
+B 9124 Range Statistics    SOLVE ForestCP Using NLP From line 826
+B 9135 Model Statistics    SOLVE ForestCP Using NLP From line 826
+B 9154 Solution Report     SOLVE ForestCP Using NLP From line 826
+B 9203 Range Statistics    SOLVE ForestCP Using NLP From line 826
+B 9214 Model Statistics    SOLVE ForestCP Using NLP From line 826
+B 9233 Solution Report     SOLVE ForestCP Using NLP From line 826
+B 9282 Range Statistics    SOLVE ForestCP Using NLP From line 844
+B 9293 Model Statistics    SOLVE ForestCP Using NLP From line 844
+B 9307 Solution Report     SOLVE ForestCP Using NLP From line 844
+B 9356 E x e c u t i o n
+I 9356 cmDemandMult
+I 9366 cmLumberMult
+I 9371 cmForPlot
+I 9380 cmTotQty
+I 9385 cmTotRev
+I 9390 cmObj
+I 9395 cmTableQty
+I 9404 cmTableRev
+B 9416 Range Statistics    SOLVE ForestCP Using NLP From line 908
+B 9427 Model Statistics    SOLVE ForestCP Using NLP From line 908
+B 9446 Solution Report     SOLVE ForestCP Using NLP From line 908
+B 9495 Range Statistics    SOLVE ForestCP Using NLP From line 908
+B 9506 Model Statistics    SOLVE ForestCP Using NLP From line 908
+B 9525 Solution Report     SOLVE ForestCP Using NLP From line 908
+B 9574 Range Statistics    SOLVE ForestCP Using NLP From line 908
+B 9585 Model Statistics    SOLVE ForestCP Using NLP From line 908
+B 9604 Solution Report     SOLVE ForestCP Using NLP From line 908
+B 9653 Range Statistics    SOLVE ForestCP Using NLP From line 908
+B 9664 Model Statistics    SOLVE ForestCP Using NLP From line 908
+B 9683 Solution Report     SOLVE ForestCP Using NLP From line 908
+B 9732 Range Statistics    SOLVE ForestCP Using NLP From line 908
+B 9743 Model Statistics    SOLVE ForestCP Using NLP From line 908
+B 9762 Solution Report     SOLVE ForestCP Using NLP From line 908
+B 9811 Range Statistics    SOLVE ForestCP Using NLP From line 908
+B 9822 Model Statistics    SOLVE ForestCP Using NLP From line 908
+B 9841 Solution Report     SOLVE ForestCP Using NLP From line 908
+B 9890 Range Statistics    SOLVE ForestCP Using NLP From line 908
+B 9901 Model Statistics    SOLVE ForestCP Using NLP From line 908
+B 9920 Solution Report     SOLVE ForestCP Using NLP From line 908
+B 9969 E x e c u t i o n
+I 9969 cpValue
+I 9975 sensSummary
+I 9988 sensForPlot
+I 10001 sensBase
+I 10006 sensDelta
+I 10032 pubSummaryTab
